@@ -3,7 +3,7 @@ package ro.pub.cs.systems.eim.colocviu1_13;
 public interface Constants {
 
     String LEFT_COUNT                  = "leftCount";
-    String RIGHT_COUNT                  = "rightCount";
+    String TEXT                  = "text";
     String TOTAL_COUNT                  = "totalCount";
     int SECONDARY_ACTIVITY_REQUEST_CODE = 3;
 
